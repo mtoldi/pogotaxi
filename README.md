@@ -1,1 +1,1 @@
-This is a web dev uni project
+Web Programming 2023/2024 project
