@@ -1,0 +1,32 @@
+export default[
+    {
+        id:1,
+        name:'Economy',
+        image:'/economy.jpg',
+        charges:1
+    },
+    {
+        id:2,
+        name:'MiniVan',
+        image:'/minivan.jpg',
+        charges:1.2
+    },
+    {
+        id:3,
+        name:'Comfort',
+        image:'/comfort.jpg',
+        charges:1.5
+    },
+    {
+        id:4,
+        name:'Luxury',
+        image:'/luxury.jpg',
+        charges: 1.8
+    },
+    {
+        id:5,
+        name:'Electric',
+        image:'/electric.png',
+        charges:1.5
+    }
+]
